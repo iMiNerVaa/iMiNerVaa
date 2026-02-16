@@ -1,5 +1,12 @@
-## Hi there 👋
+# Halo semua! 👋
 
+Perkenalkan nama saya **Dzaky Jaisy Al-Qorney**.<br>
+
+Saya seorang **Mahasiswa** di [Universitas Buana Perjuangan Karawang](https://ubpkarawang.ac.id/).<br>
+
+Saya memiliki keahlian dalam Full Stack Developer Website terutama pada framework Laravel dan Django, saya juga masih memiliki ambisi untuk menguasai framework lain<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dzaky-jaisy-al-qorney-002889327/)ku ya.
 <!--
 **iMiNerVaa/iMiNerVaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
